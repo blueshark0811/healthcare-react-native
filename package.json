@@ -21,7 +21,7 @@
     "lodash.range": "^3.2.0",
     "moment": "^2.22.2",
     "react": "16.2.0",
-    "react-native": "0.52.0",
+    "react-native": "0.70.6",
     "react-native-banner-carousel": "^1.0.3",
     "react-native-calendars": "^1.19.4",
     "react-native-device-info": "^0.22.2",
